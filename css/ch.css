@@ -1,0 +1,136 @@
+body {
+	margin: 0;
+	background-color: #fceeed;
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+#float {
+		background-color: #cdb3d8;
+		background-attachment: fixed;
+		margin: 0;
+		float: left;
+		width: 15%;
+}
+.logo{
+	float: left;
+	border-color: black;
+	border-style: dotted;
+	border-style: solid;
+	border-radius: 100px;
+	margin-top: 25px;
+	margin-right: 43px;
+	margin-left: 43px;
+	margin-bottom: 10px;
+}
+.header-name {
+	text-indent: 43px;
+	text-align: left;
+	font-family: cursive;
+	font-weight: bold;
+	margin-bottom: 50px;
+	letter-spacing: 2px;
+}
+.home {
+	margin-left: 30px;
+	color: black;
+}
+.pl {
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+.git {
+	margin-top: 240px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+#playlist {
+	margin-left: 10px;
+	margin-bottom: 40px;
+}
+#content-right {
+	width: 85%;
+}
+.class {
+	margin: 0;
+	text-indent: 33%;
+	text-shadow: 2px 2px 2px black;
+	font-weight: bold;
+	font-size: 80px;
+	font-family: cursive;
+	font-style: italic;
+	color: #cdb4db;
+}
+.class a:hover{
+	color: #9C89FF;
+}
+.top {
+	padding-top: 20px;
+}
+.quotes {
+	text-align: center;
+	text-indent: 170px;
+	line-height: 5px;
+	margin-bottom: 40px;
+	font-style: italic;
+}
+#music {
+	margin-top: 25px;
+}
+.img{
+	float: left;
+	border-radius: 100px;
+	margin-right: 15px;
+	width: 30px;
+	height: 30px;
+}
+.artist{
+	text-align: left;
+	font-family: calibre;
+	margin-top: 6px;
+	color: #341179;
+}
+.huy1{
+	color: black;
+	line-height: 20px;
+}
+.sp1 {
+	background: url('../images/socmed.png') no-repeat -22px -14px;
+	width: 36px;
+	height: 36px;
+	margin: 0 40% 5% 20%;
+}
+.sp1:hover{
+	background: url('../images/socmed.png') no-repeat -23px -111px;
+	width: 35px;
+	height: 35px;
+}
+.sp3 {
+	background: url('../images/socmed.png') no-repeat -144px -11px;
+	width: 37px;
+	height: 40px;
+	margin: 0 40% 5% 20%;
+	transform: translate(90%,0);
+}
+.sp3:hover {
+	background: url('../images/socmed.png') no-repeat -143px -105px;
+	width: 40px;
+	height: 43px;
+}
+.sp4{
+	background: url('../images/socmed.png') no-repeat -452px -12px;
+	width: 35px;
+	height: 36px;
+	margin: 0 40% 5% 20%;
+	transform: translate(180%,0);
+}
+.sp4:hover{
+	background: url('../images/socmed.png') no-repeat -449px -105px;
+	width: 36px;
+	height: 35px;
+}
+

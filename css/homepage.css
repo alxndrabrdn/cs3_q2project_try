@@ -1,0 +1,146 @@
+body {
+	margin: 0;
+	background-color: #fceeed;
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-position: right;
+#float {
+		background-color: #cdb3d8;
+		background-attachment: fixed;
+		margin: 0;
+		float: left;
+		width: 15%;
+}
+.logo{
+	float: left;
+	border-color: black;
+	border-style: dotted;
+	border-style: solid;
+	border-radius: 100px;
+	margin-top: 25px;
+	margin-right: 43px;
+	margin-left: 43px;
+	margin-bottom: 10px;
+}
+.header-name {
+	text-indent: 43px;
+	text-align: left;
+	font-family: cursive;
+	font-weight: bold;
+	margin-bottom: 50px;
+	letter-spacing: 2px;
+}
+.home {
+	margin-top: 30px;
+	margin-left: 30px;
+	color: black;
+}
+.pl {
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+.git {
+	margin-top: 50px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+#playlist {
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+.wow{
+	color: #957DAD;
+	font-weight: bold;
+}
+#content-right {
+	width: 85%;
+}
+.ma {
+	margin: 0;
+	text-indent: 340px;
+	text-shadow: 2px 2px 2px black;
+	font-weight: bold;
+	font-size: 80px;
+	font-family: cursive;
+	color: #cdb4db;
+}
+.ma a:hover{
+	color: #9C89FF;
+}
+.top {
+	padding-top: 50px;
+}
+.quotes {
+	text-align: center;
+	text-indent: 170px;
+	line-height: 5px;
+	font-style: italic;
+}
+.wow {
+	line-height: 3px;
+	font-family: comic sans ms;
+	font-size: 15px;
+}
+.pic {
+	border-radius: 25px;
+	display: block;
+	margin-bottom: 15px;
+	transform: skewX(-15deg);
+}
+.huy {
+	color: #341179;
+	text-shadow: 2px 2px 2 #957DAD;
+	font-family: verdana;
+}
+.huy:hover{
+	background-color: #cdb3d8;
+}
+.huy1{
+	color: black;
+	line-height: 20px;
+}
+.quotes2{
+	text-align: center;
+	margin-top: 30px;
+	font-style: italic;
+}
+.sp1 {
+	background: url('../images/socmed.png') no-repeat -22px -14px;
+	width: 36px;
+	height: 36px;
+	margin: 0 40% 3% 20%;
+}
+.sp1:hover{
+	background: url('../images/socmed.png') no-repeat -23px -111px;
+	width: 35px;
+	height: 35px;
+}
+.sp3 {
+	background: url('../images/socmed.png') no-repeat -144px -11px;
+	width: 37px;
+	height: 40px;
+	margin: 0 40% 3% 20%;
+	transform: translate(90%,0);
+}
+.sp3:hover {
+	background: url('../images/socmed.png') no-repeat -143px -105px;
+	width: 40px;
+	height: 43px;
+}
+.sp4{
+	background: url('../images/socmed.png') no-repeat -452px -12px;
+	width: 35px;
+	height: 36px;
+	margin: 0 40% 3% 20%;
+	transform: translate(180%,0);
+}
+.sp4:hover{
+	background: url('../images/socmed.png') no-repeat -449px -105px;
+	width: 36px;
+	height: 35x;
+}
